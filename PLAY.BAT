@@ -1,0 +1,1 @@
+a:\nasm\nasm -o wynik.com -f bin PROJEKT.asm
