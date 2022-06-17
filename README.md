@@ -9,6 +9,6 @@ dwa łańcuchy "ABC" i "abc" powinny dać wynik "AaBbCc"). Program powinien móc
 
 Przed uruchomieniem należy pobrać aplikację DOSBox.
 
-Instrukcja uruchomienia projektu
+Instrukcja uruchomienia projektu   
 W DOSBoxie przejść do lokalizacji zawierającej pobrane pliki. Następnie znaleźć w folderze i uruchomić plik "PLAY.BAT" (kompilowanie projektu). Na koniec uruchomić plik "WYNIK.COM", który wyświetla program.
 
