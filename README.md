@@ -1,4 +1,4 @@
-# Computer_Architecture_-_final_project
+# Computer Architecture - final project
 Student project made in assembler
 
 PROJEKT NA ZALICZENIE PRZEDMIOTU ARCHITEKTURA KOMPUTERÓW 2020/2021
