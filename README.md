@@ -1,7 +1,7 @@
 # Computer Architecture - final project
 Student project made in assembler
 
-PROJEKT NA ZALICZENIE PRZEDMIOTU ARCHITEKTURA KOMPUTERÓW 2020/2021   
+PROJEKT NA ZALICZENIE PRZEDMIOTU ARCHITEKTURA KOMPUTERÓW   
 AUTOR: Michał Pamięta   
 TEMAT PROJEKTU   
 Napisać program, który pobiera dwa łańcuchy znakowe z wejścia i wypisuje na wyjściu jeden łańcuch złożony z co drugiego znaku z każdego łancucha wejściowego (na przykład
